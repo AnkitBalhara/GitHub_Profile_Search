@@ -27,6 +27,7 @@ body{
     margin-top: 10px;
 }
 #userName{
+    max-width: -webkit-fill-available;
     padding:7px;
     font-size: large;
     background-color:#000000;
